@@ -580,7 +580,6 @@ namespace OffsetGUI {
 			this->btnOK->TabIndex = 0;
 			this->btnOK->Text = L"OK";
 			this->btnOK->UseVisualStyleBackColor = false;
-			this->btnOK->Click += gcnew System::EventHandler(this, &MainForm::btnOK_Click);
 			// 
 			// btnReset
 			// 
@@ -768,10 +767,7 @@ private: System::Void btnReset_Click(System::Object^ sender, System::EventArgs^ 
 	txt3->Clear();
 	txt4->Clear();
 }
-private: System::Void btnOK_Click(System::Object^ sender, System::EventArgs^ e) {
-	// change content at here;
-	//this->content->Text = " Thay đổi nội dung ở đây";
-}
+
 };
 }
 
