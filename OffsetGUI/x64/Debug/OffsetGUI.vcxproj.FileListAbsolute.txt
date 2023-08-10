@@ -1,0 +1,10 @@
+C:\Users\xuanhieuktsx\source\repos\OffsetGUI\OffsetGUI\x64\Debug\OffsetGUI.vcxproj.AssemblyReference.cache
+C:\Users\xuanhieuktsx\source\repos\OffsetGUI\OffsetGUI\x64\Debug\OffsetGUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\xuanhieuktsx\source\repos\OffsetGUI\OffsetGUI\x64\Debug\OffsetGUI.MainForm.resources
+C:\Users\xuanhieuktsx\source\repos\OffsetGUI\OffsetGUI\x64\Debug\OffsetGUI.vcxproj.GenerateResource.cache
+C:\Users\xuanhieuktsx\source\repos\OffsetGUI\OffsetGUI\x64\Debug\OffsetGUI.FormLogin.resources
+C:\Users\hitec\OneDrive\Desktop\Son_Focus32\OffsetGUI\OffsetGUI\OffsetGUI\x64\Debug\OffsetGUI.vcxproj.AssemblyReference.cache
+C:\Users\hitec\OneDrive\Desktop\Son_Focus32\OffsetGUI\OffsetGUI\OffsetGUI\x64\Debug\OffsetGUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hitec\OneDrive\Desktop\Son_Focus32\OffsetGUI\OffsetGUI\OffsetGUI\x64\Debug\OffsetGUI.FormLogin.resources
+C:\Users\hitec\OneDrive\Desktop\Son_Focus32\OffsetGUI\OffsetGUI\OffsetGUI\x64\Debug\OffsetGUI.MainForm.resources
+C:\Users\hitec\OneDrive\Desktop\Son_Focus32\OffsetGUI\OffsetGUI\OffsetGUI\x64\Debug\OffsetGUI.vcxproj.GenerateResource.cache
